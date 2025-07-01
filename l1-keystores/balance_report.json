@@ -1,0 +1,189 @@
+{
+  "check_date": "2025-07-01 21:52:58",
+  "rpc_url": "http://localhost:8545",
+  "total_addresses": 30,
+  "total_balance_ether": "300000",
+  "total_balance_wei": "300000000000000000000000",
+  "balances": [
+    {
+      "keystore": "keystore1",
+      "address": "0x220dafe677c11b347d598db7b302373d03093619",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore2",
+      "address": "0xaaf0c329a1b5e5100773084b102fb5a81fc03c61",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore3",
+      "address": "0xc5e14473a3b5f91754a561086da307d99d7913fd",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore4",
+      "address": "0xe7e5ff1acaeabf12cb2f5db5ccdad976ed231620",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore5",
+      "address": "0xd32e1c959a6b8314c10b91e2bbc21bf0194b93d8",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore6",
+      "address": "0x94b910ea887fb3845c53791d989c81704d2e672b",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore7",
+      "address": "0x83bdf3b8dce26e5c7c831db2487781fe7f6c7bf5",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore8",
+      "address": "0x7bf33aa93bba1807b60279687fc53d97a9f76875",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore9",
+      "address": "0x29f8798f61cda1add4ee87b21fa824227178f583",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore10",
+      "address": "0x6ce9eebdead2d9443442272058d8a2df8ee7b466",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore11",
+      "address": "0xc857722065ce213c3985920f70f47cd95c20c417",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore12",
+      "address": "0x483cc4649dece284c9fbeed56dbfb39104bd5693",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore13",
+      "address": "0x6558c6c650e9bfda9d9fc895ad63a6154feb9ad5",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore14",
+      "address": "0x8c819e46c2f131072eafbe19f7b5c3e0814d9c48",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore15",
+      "address": "0x7bcf746ef66ef85ec5edfe92ee037e7bc8fb00ef",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore16",
+      "address": "0x6e8cd0d2328c64af0f05c3d6346aa4b7f4a12813",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore17",
+      "address": "0x24afc32bd0f05fc08c3a2e0e00404e32e4c808a1",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore18",
+      "address": "0xf62f9d6a2503a85274f8704bd6e197ac6c852fbc",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore19",
+      "address": "0x06c8dbb35c6d99f74c58f6ee8561e5f9c0dbc78b",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore20",
+      "address": "0x555f9cfbed3c05a8fbcec22865a64322578a0430",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore21",
+      "address": "0xc2d2643442414122e7cb38fb96d171c93ebfbc5b",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore22",
+      "address": "0xe4c36c31f06f03d080770262b5ecfa6ee62837f7",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore23",
+      "address": "0xb456aca5a9c3081e9e2f69bb06d3e7f0907044b7",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore24",
+      "address": "0xff1ed5d3b1588340a4417b0f8aefd67f15270765",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore25",
+      "address": "0x7bc57b35db8fca68f373e5c4ca88b14b9564428e",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore26",
+      "address": "0xd417ab784db7d11f0842a50c3533c6c11da3ef07",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore27",
+      "address": "0x9a412077815dc6ddeaa5cc65bf2581b7eaf35424",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore28",
+      "address": "0x4444208663ece428a2e75786825a620fddffb476",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore29",
+      "address": "0xc0274f99e16df0f3f956795bf4befe39884f2f8b",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    },
+    {
+      "keystore": "keystore30",
+      "address": "0x73c4882a5f0ee36f27f83b5bb2685dbfbcdd0a18",
+      "balance_wei": "10000000000000000000000",
+      "balance_ether": "10000"
+    }
+  ]
+}

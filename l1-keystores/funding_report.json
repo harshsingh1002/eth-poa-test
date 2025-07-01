@@ -1,0 +1,190 @@
+{
+  "funding_date": "2025-07-01 21:51:52",
+  "funding_address": "0xE1a13a8Fd2aC00862b1525Ef7b6F46d7c35af676",
+  "funding_amount": "10000ether",
+  "total_addresses": 30,
+  "successful": 30,
+  "failed": 0,
+  "transactions": [
+    {
+      "keystore": "keystore1",
+      "address": "0x220dafe677c11b347d598db7b302373d03093619",
+      "tx_hash": "0xcd08c8e8acc75fc3e3dc149e28a2a91bd2c2c51ac5449b85072b7678e3b67680",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore2",
+      "address": "0xaaf0c329a1b5e5100773084b102fb5a81fc03c61",
+      "tx_hash": "0x7330a89bd86074f1fc67002cc2bfd7c5e5f65bd40a20c8f6ec20b95a203023a9",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore3",
+      "address": "0xc5e14473a3b5f91754a561086da307d99d7913fd",
+      "tx_hash": "0xb383a217c1e214f26c3736feb688754269ded68b723ec6fbd31dc501f11aa295",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore4",
+      "address": "0xe7e5ff1acaeabf12cb2f5db5ccdad976ed231620",
+      "tx_hash": "0xd3ca3393286386035d4c07b0cff7dbf89a9a597ef941474d47a96521889190e0",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore5",
+      "address": "0xd32e1c959a6b8314c10b91e2bbc21bf0194b93d8",
+      "tx_hash": "0x9755fca243d09267b2d79e8e4a1e4a9a98010464cb7ef72d59dc203fe639ec33",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore6",
+      "address": "0x94b910ea887fb3845c53791d989c81704d2e672b",
+      "tx_hash": "0x800c2c169331e0f3c1d8af35ce82eb87fec82131abfb07b3bb552e09cbaf7265",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore7",
+      "address": "0x83bdf3b8dce26e5c7c831db2487781fe7f6c7bf5",
+      "tx_hash": "0x3e372c5fe804bdc63fa7e7cdda220f382a586490305bd89ed605a597dd54ae08",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore8",
+      "address": "0x7bf33aa93bba1807b60279687fc53d97a9f76875",
+      "tx_hash": "0xdf42fa0057d69aa288208534fff77f604ff27888d31bf2e66df935228cd002bb",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore9",
+      "address": "0x29f8798f61cda1add4ee87b21fa824227178f583",
+      "tx_hash": "0x7d5d2b78b4e1026d5ae33d7340aaf400bbc19ccf37de1dc16053aec5e4099c3b",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore10",
+      "address": "0x6ce9eebdead2d9443442272058d8a2df8ee7b466",
+      "tx_hash": "0x1e678f276061b5d915a62bdc2e0c26143a0af0a108fdc3f37428f16014fd507d",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore11",
+      "address": "0xc857722065ce213c3985920f70f47cd95c20c417",
+      "tx_hash": "0x52d9b32e92fcfd026f087dd9a97eeeb11388cdb327d0738577d2ad003a9c1dc2",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore12",
+      "address": "0x483cc4649dece284c9fbeed56dbfb39104bd5693",
+      "tx_hash": "0x5b3391571ab6bae87b69b7d5066a9194fa9de5d908d456993bf23468c1255327",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore13",
+      "address": "0x6558c6c650e9bfda9d9fc895ad63a6154feb9ad5",
+      "tx_hash": "0x28f89b32ac1ba57fecb3d8bf12751882ca2b88329461b0239fa0bd0fedb2a22a",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore14",
+      "address": "0x8c819e46c2f131072eafbe19f7b5c3e0814d9c48",
+      "tx_hash": "0x06751baf99b5ee803e57fc59a293b1fc74a3be272a8160225cda64de574d5c1d",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore15",
+      "address": "0x7bcf746ef66ef85ec5edfe92ee037e7bc8fb00ef",
+      "tx_hash": "0x3034820da94b4d7c4346fa610d0c4171ea1604a4a1156d1f1cf748e0449f0ecb",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore16",
+      "address": "0x6e8cd0d2328c64af0f05c3d6346aa4b7f4a12813",
+      "tx_hash": "0x4d9c5685d0c85a5fefb3196e1705cdab4d1ba13ceeecc68029c7e41e74629eda",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore17",
+      "address": "0x24afc32bd0f05fc08c3a2e0e00404e32e4c808a1",
+      "tx_hash": "0xb9d3f24eaca7b41a8b147fb639bead1d1381b3d16ca960fbb9f2120ced38754a",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore18",
+      "address": "0xf62f9d6a2503a85274f8704bd6e197ac6c852fbc",
+      "tx_hash": "0x7272793f912604d0f70bc19084a9d67135ca012de5664aa4b97e585e84748125",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore19",
+      "address": "0x06c8dbb35c6d99f74c58f6ee8561e5f9c0dbc78b",
+      "tx_hash": "0x4ebcb27361c17da0e98a28619632cc31e45dc899a7eaf34efc617d6ad6747c5a",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore20",
+      "address": "0x555f9cfbed3c05a8fbcec22865a64322578a0430",
+      "tx_hash": "0x40ff38d5ea8bf0f7d9190b7bd32126f2299e0cb39b51e0e8ef3ffd1bac53c579",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore21",
+      "address": "0xc2d2643442414122e7cb38fb96d171c93ebfbc5b",
+      "tx_hash": "0x5df3586aeb41f1469ce59124041fccfe5124924dfcc7e64a47062ddcd2cce307",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore22",
+      "address": "0xe4c36c31f06f03d080770262b5ecfa6ee62837f7",
+      "tx_hash": "0xf59cb638c6f8ec9d9e7cbdee642d2c6e733c060a3323d3c4a310f3664fb47433",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore23",
+      "address": "0xb456aca5a9c3081e9e2f69bb06d3e7f0907044b7",
+      "tx_hash": "0x4adea54f5592915c82fcd7a42a19963e55f48240ce19d6d630cd858c383ef8ed",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore24",
+      "address": "0xff1ed5d3b1588340a4417b0f8aefd67f15270765",
+      "tx_hash": "0x8cad8e2e0615f7d61c56086b5e493dea3a4eef34e083fde07b1b6ea1a1ea35dc",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore25",
+      "address": "0x7bc57b35db8fca68f373e5c4ca88b14b9564428e",
+      "tx_hash": "0x3848989853e398fb867a36da6beb338abb253fd77ec27c21420c95e3fa4d2079",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore26",
+      "address": "0xd417ab784db7d11f0842a50c3533c6c11da3ef07",
+      "tx_hash": "0xa692ad57a929a8d677f0ee5c98042b1e0d012559759cec8657f22f96d2dc84cd",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore27",
+      "address": "0x9a412077815dc6ddeaa5cc65bf2581b7eaf35424",
+      "tx_hash": "0x63d34408142e1f4c4424aeed5bc435bc491797aff539275f1d9d80199da03f69",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore28",
+      "address": "0x4444208663ece428a2e75786825a620fddffb476",
+      "tx_hash": "0xb904fbe14ba22611c3bf23728d27a4ec96aa98a39616b3b8534615ed305e1d9a",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore29",
+      "address": "0xc0274f99e16df0f3f956795bf4befe39884f2f8b",
+      "tx_hash": "0x2ce7c02f03e54e0d9a52e5e207b5c9aed86a2eb07a5faa596a951b31b9b2f289",
+      "status": "success"
+    },
+    {
+      "keystore": "keystore30",
+      "address": "0x73c4882a5f0ee36f27f83b5bb2685dbfbcdd0a18",
+      "tx_hash": "0x11819f7d28b623414d29a6a245fa8e3d4bdc83a41662d030bdeaf2af9325edc4",
+      "status": "success"
+    }
+  ]
+}
