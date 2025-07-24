@@ -34,7 +34,7 @@
     "terminalTotalDifficulty": 0
   },
   "nonce": "0x0",
-  "timestamp": "0x1982ce76150",
+  "timestamp": "0x1983d603cf0",
   "gasLimit": "0x197dea15ed8",
   "difficulty": "0x1",
   "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -384,7 +384,7 @@
       "balance": "0xc097ce7bc90715b34b9f1000000000"
     },
     "0x9c9c619412fb80f6de01d527598b48db9c094984": {
-      "balance": "0xc097ce7bc90715b34b9f1000000000"
+      "balance": "0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD4A51000FDA0FFFF"
     },
     "0x95b4fe1f00af42453f5f97efeece3bf0f589fce1": {
       "balance": "0xc097ce7bc90715b34b9f1000000000"
